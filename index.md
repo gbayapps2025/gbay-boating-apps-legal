@@ -13,4 +13,4 @@ Welcome to the legal documents site for **G-Bay Boating Apps**.
 
 ## Contact
 
-For legal or privacy questions, contact: **<SUPPORT_EMAIL>**
+For legal or privacy questions, contact: gbay.apps2025@gmail.com
