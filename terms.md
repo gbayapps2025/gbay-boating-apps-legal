@@ -1,7 +1,7 @@
 # Terms of Use
 **G-Bay Boating Apps**  
 **App:** Georgian Bay Boating Weather  
-**Effective Date:** <EFFECTIVE_DATE>
+**Effective Date:** 04/14/2026
 
 By downloading or using this app, you agree to these Terms of Use.
 
@@ -42,4 +42,4 @@ We may update these Terms from time to time. Continued use after updates means y
 
 ## 9. Contact
 Questions about these Terms:  
-**<SUPPORT_EMAIL>**
+gbay.apps2025@gmail.com
