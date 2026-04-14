@@ -13,4 +13,4 @@ This repository hosts public legal documents for apps published by **G-Bay Boati
 
 ## Contact
 
-For legal or privacy questions, contact: **<SUPPORT_EMAIL>**
+For legal or privacy questions, contact: gbay.apps2025@gmail.com
