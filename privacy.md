@@ -1,7 +1,7 @@
 # Privacy Policy
 **G-Bay Boating Apps**  
 **App:** Georgian Bay Boating Weather  
-**Effective Date:** <EFFECTIVE_DATE>
+**Effective Date:** 04/14/2026
 
 G-Bay Boating Apps ("we", "us", "our") provides the Georgian Bay Boating Weather app (the "App").  
 This Privacy Policy explains what information the App uses and how it is handled.
@@ -48,4 +48,4 @@ We may update this Privacy Policy from time to time. Updates will be reflected b
 
 ## 8. Contact
 If you have questions about this Privacy Policy, contact:  
-**<SUPPORT_EMAIL>**
+gbay.apps2025@gmail.com
